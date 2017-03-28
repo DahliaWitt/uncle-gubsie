@@ -1,7 +1,7 @@
 {
-  "name": "Cenafy",
-  "version": "1.0.4",
-  "description": "And his name is John Cena",
+  "name": "Uncle-Gubsie",
+  "version": "1.0.0",
+  "description": "Your friendly helper to detect fake news.",
 
   "content_scripts": [
     {
@@ -15,5 +15,5 @@
     "http://*/*",
     "https://*/*"
   ],
-  "manifest_version": 2
+  "manifest_version": 1
 }
